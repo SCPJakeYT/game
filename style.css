@@ -1,11 +1,5 @@
-* {
-    box-sizing: border-box;
-}
-.floor {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: blue;
+body, html, canvas {
+    background-color:#000000;
+    height:100vh;
+    width:100vw;
 }
